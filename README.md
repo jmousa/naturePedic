@@ -4,13 +4,15 @@ the new GUI Framework that is taking the world by storm
 The naturepedic.com website was chosen because it has most of the 
 functionality of a typical enterprise website
 
-The project was developed on a window 10 machine using JavaScript and VS code for an IDE, which is pretty typical for a development environment.
+The project was developed on a window 10 machine using JavaScript and VS code for an IDE, 
+which is pretty typical for a development environment.
 
 In order to create test data the chance module was used.
 
 Installation instruction
 
 1- open a command prompt and create a directory for your project.
+
     mkdir naturepedic
 
 2- cd to the directory and install node.js if it is not installed
