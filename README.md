@@ -21,22 +21,27 @@ Installation instruction
     modules
 
 3- initialize your project as follow
+
    npm init
 
 4- install cypress and the chance module using npm as follow
+
     npm install  cypress  --save-dev
     npm install  chance  --save-dev
 
 5- Clone the repo
+
     git clone https://github.com/jmousa/naturePedic.git
 
 6- cd to the integration directory and delete all the files in the
     example directory. You can also delete the example directory.
 
 6- open cypress using the following command
+
     npm run start         this will open the cypress tools 
 
 7- Click the "Run all spec" button to run all files.
 
 8- To run all files in headless mode open cypress using the following command
+
     npm run test
