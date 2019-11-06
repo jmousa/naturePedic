@@ -8,10 +8,7 @@ var lastName  = chance.last();
 const email = chance.email({domain: "hotmail.com"});
 const pass  = chance.word({ length: 7 })
 
-console.log(pass)
-console.log(pass)
-console.log(pass)
-console.log(pass)
+
 
 describe('create a new account',function(){
     beforeEach(function(){
